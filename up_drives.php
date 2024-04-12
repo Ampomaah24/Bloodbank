@@ -76,7 +76,7 @@ $pastDrives = getAllDrives('past');
             font-weight: bold;
             color: #9c0404;
         }
-        /* Styling for past drives */
+        
         .past-drives {
             margin-bottom: 40px;
         }
@@ -84,7 +84,7 @@ $pastDrives = getAllDrives('past');
             color: #555;
             margin-bottom: 20px;
         }
-        /* Styling for upcoming drives */
+      
         .upcoming-drives {
             margin-bottom: 40px;
         }
